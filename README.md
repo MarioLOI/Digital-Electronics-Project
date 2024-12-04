@@ -77,13 +77,13 @@ In the context of web development, threading allows you to handle multiple tasks
 Then we developed a web page for showing data after reading it. We did it focused on the purpose of controlling data faster and automatically.
 Also we can see if any value is lower or higher immediatly and react to that.
 
-<img src="./images/web_page.jpeg" alt="esp32 pin out" width="1200"/>
+<img src="./images/web_page.jpeg" alt="esp32 pin out" width="1000"/>
 
 #### Case of DRY soil:
-<img src="images/0_lvl_soil_moisture.jpg" alt="esp32 pin out" width="1200"/>
+<img src="images/0_lvl_soil_moisture.jpg" alt="esp32 pin out" width="1000"/>
 
 #### Case of FLOODED soil:
-<img src="images/100_lvl_soil_moisture.jpg" alt="esp32 pin out" width="1200"/>
+<img src="images/100_lvl_soil_moisture.jpg" alt="esp32 pin out" width="1000"/>
 
 ### External Modules
 - **`threading`**: Allows parallel runtime for server application
