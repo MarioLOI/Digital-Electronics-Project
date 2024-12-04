@@ -110,14 +110,15 @@ Also we can see if any value is lower or higher immediatly and react to that.
 
 4. **Humidity and Temperature Sensor**
    - Dual Measurement Capability: Measures both temperature and humidity simultaneously.
+   - Model: DHT12
    - Digital Output: Provides easy integration with microcontrollers via protocols like I2C.
+   <img src="images/temp_sensor.jpg" alt="DHT12 humidity/temperature sensor" width="300"/>
 
 6. **Photoresistor**  
    - Measures ambient light.  
    - Connected to analog pin 36.
    - Important connection note: It must be connected in series with a 10kΩ resistor (we need a voltage divider), with one of its leads going to ground. We will connect the 3.3V power supply to the free lead of the photoresistor, and the lead connected in series with the resistor will be connected to pin 36.
    <img src="./images/photoresistor.webp" alt="photoresistor" width="300"/>
-
 
 7. **NeoPixel LEDs**  
    - Controlled from GPIO 5.
