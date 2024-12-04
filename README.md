@@ -71,17 +71,19 @@ LCD (Liquid Crystal Display) is an electronic device which is used for display a
 LCD displays have different LED back-light in yellow-green, white and blue color. LCD modules are mostly available in COB (Chip-On-Board) type.
 With this method, the controller IC chip or driver (here: HD44780) is directly mounted on the backside of the LCD module itself.
 
-#### Web page:
+### Web page:
 A threading library provides a way to manage multiple threads of execution within a single process.
 In the context of web development, threading allows you to handle multiple tasks concurrently, improving the responsiveness of your application.
 Then we developed a web page for showing data after reading it. We did it focused on the purpose of controlling data faster and automatically.
 Also we can see if any value is lower or higher immediatly and react to that.
 
-<img src="./images/web_page.jpeg" alt="esp32 pin out"         width="1200"/>
-## Case of DRY soil:
-<img src="images/0_lvl_soil_moisture.jpg" alt="esp32 pin out"         width="600"/>
-## Case of FLOODED soil:
-<img src="images/100_lvl_soil_moisture.jpg" alt="esp32 pin out"         width="600"/>
+<img src="./images/web_page.jpeg" alt="esp32 pin out" width="1200"/>
+
+#### Case of DRY soil:
+<img src="images/0_lvl_soil_moisture.jpg" alt="esp32 pin out" width="1200"/>
+
+#### Case of FLOODED soil:
+<img src="images/100_lvl_soil_moisture.jpg" alt="esp32 pin out" width="1200"/>
 
 ### External Modules
 - **`threading`**: Allows parallel runtime for server application
