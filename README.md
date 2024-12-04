@@ -53,6 +53,11 @@ How does it work?
 When light hits the semiconductor material of a photoresistor, photons (particles of light) provide energy to electrons, allowing them to move more freely. 
 This increased movement of electrons reduces the overall resistance of the material.
 
+#### Humidity and Temperature:
+Temperature Sensor: Typically uses a thermistor or a semiconductor to measure temperature changes. A thermistor changes its resistance with temperature, while a semiconductor uses voltage variations.
+The sensor detects temperature changes by measuring resistance or voltage. The signal is processed by a microcontroller to give a readable temperature output.
+Humidity Sensor: Often uses a capacitive or resistive element. In capacitive sensors, the dielectric constant changes based on moisture in the air, altering capacitance. In resistive sensors, electrical resistance changes with humidity.
+The sensor detects moisture levels by measuring changes in capacitance or resistance. The more moisture in the air, the higher the dielectric constant or the lower the resistance, and vice versa.
 
 #### Soil moisture:
 Soil moisture refers to the amount of water present in the soil. It's a critical factor for life on Earth, influencing:
@@ -103,19 +108,22 @@ Also we can see if any value is lower or higher immediatly and react to that.
    - Connected to ESP32 ADC (GPIO 35).
    <img src="./images/soil_moisture.webp" alt="capacitive soil moisture sensor" width="300"/>
 
+4. **Humidity and Temperature Sensor**
+   -Dual Measurement Capability: Measures both temperature and humidity simultaneously.
+   -Digital Output: Provides easy integration with microcontrollers via protocols like I2C.
 
-5. **Photoresistor**  
+6. **Photoresistor**  
    - Measures ambient light.  
    - Connected to analog pin 36.
    - Important connection note: It must be connected in series with a 10kΩ resistor (we need a voltage divider), with one of its leads going to ground. We will connect the 3.3V power supply to the free lead of the photoresistor, and the lead connected in series with the resistor will be connected to pin 36.
    <img src="./images/photoresistor.webp" alt="photoresistor" width="300"/>
 
 
-6. **NeoPixel LEDs**  
+7. **NeoPixel LEDs**  
    - Controlled from GPIO 5.
    <img src="./images/neopixl.png" alt="NeoPixel-LED-Pinout" width="300"/>
 
-7. **Buzzer**  
+8. **Buzzer**  
    - Controlled from GPIO 23.
 
 
