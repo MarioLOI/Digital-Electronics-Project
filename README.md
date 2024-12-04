@@ -49,7 +49,7 @@ Communication protocol consists of: Start condition, Address frame, Data frame, 
 #### Photoresistor:
 A photoresistor, also known as a Light-Dependent Resistor (LDR) or photoconductor, is an electronic component whose electrical resistance varies depending on the amount of light that falls on it.
 In simpler terms, the more light it receives, the lower its resistance becomes.
-How does it work?
+- How does it work?
 When light hits the semiconductor material of a photoresistor, photons (particles of light) provide energy to electrons, allowing them to move more freely. 
 This increased movement of electrons reduces the overall resistance of the material.
 
@@ -109,8 +109,8 @@ Also we can see if any value is lower or higher immediatly and react to that.
    <img src="./images/soil_moisture.webp" alt="capacitive soil moisture sensor" width="300"/>
 
 4. **Humidity and Temperature Sensor**
-   -Dual Measurement Capability: Measures both temperature and humidity simultaneously.
-   -Digital Output: Provides easy integration with microcontrollers via protocols like I2C.
+   - Dual Measurement Capability: Measures both temperature and humidity simultaneously.
+   - Digital Output: Provides easy integration with microcontrollers via protocols like I2C.
 
 6. **Photoresistor**  
    - Measures ambient light.  
