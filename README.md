@@ -54,17 +54,17 @@ When light hits the semiconductor material of a photoresistor, photons (particle
 This increased movement of electrons reduces the overall resistance of the material.
 
 #### Humidity and Temperature:
-Temperature Sensor: Typically uses a thermistor or a semiconductor to measure temperature changes. A thermistor changes its resistance with temperature, while a semiconductor uses voltage variations.
+- Temperature Sensor: Typically uses a thermistor or a semiconductor to measure temperature changes. A thermistor changes its resistance with temperature, while a semiconductor uses voltage variations.
 The sensor detects temperature changes by measuring resistance or voltage. The signal is processed by a microcontroller to give a readable temperature output.
-Humidity Sensor: Often uses a capacitive or resistive element. In capacitive sensors, the dielectric constant changes based on moisture in the air, altering capacitance. In resistive sensors, electrical resistance changes with humidity.
+- Humidity Sensor: Often uses a capacitive or resistive element. In capacitive sensors, the dielectric constant changes based on moisture in the air, altering capacitance. In resistive sensors, electrical resistance changes with humidity.
 The sensor detects moisture levels by measuring changes in capacitance or resistance. The more moisture in the air, the higher the dielectric constant or the lower the resistance, and vice versa.
 
 #### Soil moisture:
 Soil moisture refers to the amount of water present in the soil. It's a critical factor for life on Earth, influencing:
-Plant growth: Water is essential for plants to absorb nutrients and perform photosynthesis.
-Biogeochemical cycles: Soil moisture plays a crucial role in the water, carbon, and other element cycles.
-Soil stability: Moisture affects soil structure and its ability to resist erosion.
-Climate: Evaporation of water from the soil influences atmospheric humidity and precipitation.
+- Plant growth: Water is essential for plants to absorb nutrients and perform photosynthesis.
+- Biogeochemical cycles: Soil moisture plays a crucial role in the water, carbon, and other element cycles.
+- Soil stability: Moisture affects soil structure and its ability to resist erosion.
+- Climate: Evaporation of water from the soil influences atmospheric humidity and precipitation.
 
 #### Display:
 LCD (Liquid Crystal Display) is an electronic device which is used for display any ASCII text. There are many different screen sizes e.g. 16x1, 16x2, 16x4, 20x4, 40x4 characters and each character is made of 5x8 matrix pixel dots.
