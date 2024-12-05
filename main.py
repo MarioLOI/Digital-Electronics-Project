@@ -83,7 +83,7 @@ try:
             print(s_moisture)
             
             
-            if value_moisture < 32500:
+            if value_moisture < 1300:
                 buzz.sound_buzzer(1)
             else:
                 buzz.sound_buzzer(0)
