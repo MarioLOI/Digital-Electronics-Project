@@ -134,7 +134,7 @@ Also we can see if any value is lower or higher immediatly and react to that.
 
 8. **Buzzer**  
    - Controlled from GPIO 23.
-
+   <img src="images/buzzer.jpg" alt="Buzzer" width="300"/>
 
 ### Connections
    <img src="./images/logi.jpeg" alt="wokwi connection simulation" width="700"/>
