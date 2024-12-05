@@ -79,6 +79,7 @@ In the context of web development, threading allows you to handle multiple tasks
 Then we developed a web page for showing data after reading it. We did it focused on the purpose of controlling data faster and automatically.
 Also we can see if any value is lower or higher immediatly and react to that.
 
+#### Case of SEMIDRY soil:
 <img src="./images/web_page.jpeg" alt="esp32 pin out" width="1000"/>
 
 #### Case of DRY soil:
