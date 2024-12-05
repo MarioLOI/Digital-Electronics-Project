@@ -2,11 +2,11 @@
 
 <img src="images/photo_intro.jpg" width="400"/>
 <br>
-<br>
-<br>
 <img src="images/Humidity_high.jpg" alt="esp32 pin out" width="400"/>
 <br>
-
+<video width="320" height="240" controls>
+  <source src="https://drive.google.com/file/d/1jHefg1LyvdDhoFzPaILHQ8uCBUfU4nUQ/view?usp=drive_link" type="video/mp4">
+</video> 
 ## Quick try it out
 1. **Clone this repository:**
    ```bash
