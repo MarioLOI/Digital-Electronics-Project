@@ -1,6 +1,6 @@
 # Project: Smart Plant Monitoring System with ESP32
 
-<img src="./images/con1.jpeg" alt="esp32 pin out" width="400"/>
+<img src="images/photo_intro.jpg" width="400"/>
 <br>
 <br>
 <br>
