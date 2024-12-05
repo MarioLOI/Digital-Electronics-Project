@@ -80,7 +80,7 @@ Also we can see if any value is lower or higher immediatly and react to that.
 <img src="./images/web_page.jpeg" alt="esp32 pin out" width="1000"/>
 
 #### Case of DRY soil:
-<img src="images/0_lvl_soil_moisture.jpg" alt="esp32 pin out" width="1000"/>
+<img src="images/0_lvl_soil_moisture_hd.jpg" alt="esp32 pin out" width="1000"/>
 
 #### Case of FLOODED soil:
 <img src="images/100_lvl_soil_moisture.jpg" alt="esp32 pin out" width="1000"/>
