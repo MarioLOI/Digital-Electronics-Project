@@ -144,6 +144,8 @@ Also we can see if any value is lower or higher immediatly and react to that.
 | NeoPixel LEDs          | GPIO 5                       |
 | Buzzer                 | GPIO 23                      |
 
+### Video
+
                                                
 ### Installation and Usage
 
