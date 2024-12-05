@@ -119,9 +119,7 @@ try:
 
 except KeyboardInterrupt:
     print("Program stopped. Exiting...")
-    server_thread.stop()
     
-
     display.clear_display()
     display.show_display()
 
