@@ -4,7 +4,7 @@
 <br>
 <img src="images/Humidity_high.jpg" alt="esp32 pin out" width="400"/>
 <br>
- <a href="https://drive.google.com/file/d/1jHefg1LyvdDhoFzPaILHQ8uCBUfU4nUQ/view?usp=drive_link">Visit W3Schools</a> 
+ <a href="https://drive.google.com/file/d/1jHefg1LyvdDhoFzPaILHQ8uCBUfU4nUQ/view?usp=drive_link">Video demonstration:</a> 
  <br>
  
 ## Quick try it out
